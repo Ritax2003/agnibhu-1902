@@ -23,7 +23,7 @@
 
 <p><img align="right" alt="Coding" width="450" height="405" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=agnibhu-1902&show_icons=true&locale=en" alt="agnibhu-1902" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agnibhu-1902&show_icons=true&locale=en" alt="agnibhu-1902" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agnibhu-1902&" alt="agnibhu-1902" /></p>
 
