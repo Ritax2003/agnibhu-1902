@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agnibhu-1902&theme=radical" alt="agnibhu-1902" /></a> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=agnibhu-1902&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=agnibhu-1902&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 <img align="right" alt="Coding" width="320" src="https://media.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" />
 
