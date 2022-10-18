@@ -9,6 +9,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=agnibhu-1902&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
+<img align="right" alt="Coding" width="320" src="https://media.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" />
+
 - 🌱 I’m currently learning **OpenCV, SQL and PyTorch**
 
 - 💬 Ask me about **C, C++, Java and Python**
