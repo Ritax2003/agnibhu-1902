@@ -1,3 +1,5 @@
+[![MasterHead](https://raw.githubusercontent.com/AllureOfTheStars/media/master/screenshot/allureofthestars.com.second.attempt.gif)](https://hackage.haskell.org/package/Allure)
+
 <h1 align="center">Hi 👋, I'm Agnibhu Mandal</h1>
 <h3 align="center">A passionate coder from India</h3>
 
