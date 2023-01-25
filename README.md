@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agnibhu-1902&theme=radical" alt="agnibhu-1902" /></a> </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=agnibhu-1902&langs_count=6&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=agnibhu-1902&langs_count=6&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 <img align="right" alt="Nyan Coding" width="320" src="https://github.com/agnibhu-1902/agnibhu-1902/blob/main/bongo_cat.gif" />
 
@@ -36,8 +36,8 @@
 
 <p><img align="right" alt="Coding" width="320" height="405" src="https://github.com/agnibhu-1902/agnibhu-1902/blob/main/coding.gif" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=agnibhu-1902&show_icons=true&locale=en" alt="agnibhu-1902" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=agnibhu-1902&show_icons=true&locale=en" alt="agnibhu-1902" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agnibhu-1902&" alt="agnibhu-1902" /></p>
 
-[![Agnibhu's github activity graph](https://activity-graph.herokuapp.com/graph?username=agnibhu-1902&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Agnibhu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=agnibhu-1902&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
