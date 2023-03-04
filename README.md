@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/agnibhu-1902/agnibhu-1902/blob/main/allureofthestars.gif)](https://hackage.haskell.org/package/Allure)
-
+<!--
 <h1 align="center">Hi 👋, I'm Agnibhu Mandal</h1>
 <h3 align="center">A passionate coder from India</h3>
 
@@ -42,3 +42,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agnibhu-1902&" alt="agnibhu-1902" /></p>
 
 [![Agnibhu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=agnibhu-1902&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
