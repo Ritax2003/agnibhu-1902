@@ -1,5 +1,4 @@
-[![MasterHead](https://github.com/agnibhu-1902/agnibhu-1902/blob/main/allureofthestars.gif)](https://hackage.haskell.org/package/Allure)
-<!--
+<!--[![MasterHead](https://github.com/agnibhu-1902/agnibhu-1902/blob/main/allureofthestars.gif)](https://hackage.haskell.org/package/Allure)
 <h1 align="center">Hi 👋, I'm Agnibhu Mandal</h1>
 <h3 align="center">A passionate coder from India</h3>
 
