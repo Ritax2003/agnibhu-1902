@@ -10,7 +10,7 @@
 
 <img align="right" alt="Nyan Coding" width="320" src="https://github.com/agnibhu-1902/agnibhu-1902/blob/main/bongo_cat.gif" />
 
-- 🌱 I’m currently learning **OpenCV, SQL and PyTorch**
+- 🌱 I’m currently learning **OpenCV, SQL and Tensorflow**
 
 - 💬 Ask me about **C, C++, Java and Python**
 
